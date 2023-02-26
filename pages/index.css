@@ -8,12 +8,19 @@
 @import url('../blocks/lead/__subtitle/__subtitle.css');
 @import url('../blocks/lead/__image/lead__image.css');
 @import url('../blocks/lead/__caption/__caption.css');
+@import url('../blocks/intro/intro.css');
+@import url('../blocks/intro/__title/intro__title.css');
+@import url('../blocks/intro/__text/intro__text.css');
+@import url('../blocks/intro/__list/intro__list.css');
+@import url('../blocks/intro/__list/_text-accent/intro__list_text-accent.css');
+
 
 .body {
   background-color: #E7E7E7;
 }
 
 .page {
+    min-width: 320px;
     max-width: 1280px;
     margin: 0 auto;
     background-color: #2A2C2F;
