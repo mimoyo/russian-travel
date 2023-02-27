@@ -7,3 +7,9 @@
     margin-left: calc(16px + (24 - 16) * (100vw - 320px) / (950-320));
   }
 }
+
+@media screen and (max-width: 480px) {
+  .intro {
+    max-width: 288px;
+  }
+}
