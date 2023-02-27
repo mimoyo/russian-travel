@@ -1,5 +1,5 @@
 .header {
-  max-width: 100%;
+  max-width: 1184px;
   display: grid;
   grid-template-columns: 1fr auto auto;
   align-items: end;
