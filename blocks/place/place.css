@@ -4,5 +4,25 @@
     "title website"
     "image text"
     "image text";
-    gap: 48px 40px;
+  grid-template-columns: minmax(340px, 1fr) minmax(352px, 1fr);
+  gap: 48px 40px;
 }
+
+@media screen and (max-width: 768px) {
+  .place {
+    grid-template-columns: minmax(288px, 1fr) minmax(288px, 1fr);
+  }
+}
+
+@media screen and (max-width: 633px) {
+  .place {
+    grid-template-areas:
+    "title"
+    "website"
+    "image"
+    "text";
+    row-gap: 32px;
+    grid-template-columns: minmax(288px, 1fr);
+  }
+}
+

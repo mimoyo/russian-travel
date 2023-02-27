@@ -9,9 +9,39 @@
 
 @media screen and (max-width: 1211px) {
   .photo-grid {
-    max-width: 90vw;
+    max-width: 984px;
   }
 }
+
+@media screen and (max-width: 1024px) {
+  .photo-grid {
+    max-width: 928px;
+  }
+}
+
+@media screen and (max-width: 950px) {
+  .photo-grid {
+    max-width: 828px;
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+  .photo-grid {
+    max-width: 720px;
+    padding-bottom: 88px;
+  }
+}
+
+@media screen and (max-width: 583px) {
+  .photo-grid {
+    max-width: 288px;
+    padding-bottom: 64px;
+  }
+}
+
+
+
 
 
 
