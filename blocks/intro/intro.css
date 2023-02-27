@@ -2,15 +2,8 @@
   max-width: 690px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 930px) {
   .intro {
-    max-width: 720px;
-    margin-left: 24px;
-  }
-}
-
-@media screen and (max-width: 480px) {
-  .intro {
-    margin-left: 16px;
+    margin-left: calc(16px + (24 - 16) * (100vw - 320px) / (930-320));
   }
 }
