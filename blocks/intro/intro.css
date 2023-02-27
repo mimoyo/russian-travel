@@ -2,8 +2,21 @@
   max-width: 690px;
 }
 
+<<<<<<< HEAD
 @media screen and (max-width: 930px) {
   .intro {
     margin-left: calc(16px + (24 - 16) * (100vw - 320px) / (930-320));
+=======
+@media screen and (max-width: 950px) {
+  .intro {
+    max-width: 710px;
+    margin-left: calc(16px + (24 - 16) * (100vw - 320px) / (950-320));
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .intro {
+    max-width: 288px;
+>>>>>>> feature/places
   }
 }

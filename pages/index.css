@@ -14,6 +14,15 @@
 @import url('../blocks/intro/__list/_text-accent/intro__list_text-accent.css');
 @import url('../blocks/photo-grid/photo-grid.css');
 @import url('../blocks/photo-grid/__item/photo-grid__item.css');
+@import url('../blocks/places/places.css');
+@import url('../blocks/place/place.css');
+@import url('../blocks/place/__title/__title.css');
+@import url('../blocks/place/__image/__image.css');
+@import url('../blocks/place/__website/__website.css');
+@import url('../blocks/place/__url-heading/__url-heading.css');
+@import url('../blocks/place/__link/__link.css');
+@import url('../blocks/place/__texts/__texts.css');
+@import url('../blocks/place/__text/__text.css');
 
 
 .body {
