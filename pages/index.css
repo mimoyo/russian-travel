@@ -26,6 +26,11 @@
 @import url('../blocks/cover/cover.css');
 @import url('../blocks/cover/__title/__title.css');
 @import url('../blocks/cover/__subtitle/__subtitle.css');
+@import url('../blocks/cover-container/cover-container.css');
+@import url('../blocks/cover/cover.css');
+@import url('../blocks/cover/__background/__background.css');
+@import url('../blocks/cover/__title/__title.css');
+@import url('../blocks/cover/__subtitle/__subtitle.css');
 
 
 .body {
