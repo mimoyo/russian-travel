@@ -9,3 +9,7 @@
 
 Pure HTML & CSS
 
+
+### Просмотреть сайт
+
+Посмотреть на проект можно по ссылке - https://mimoyo.github.io/russian-travel/
