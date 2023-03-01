@@ -18,12 +18,14 @@
   .flex-container {
     max-width: 768px;
     padding-bottom: 88px;
+    gap: 88px;
   }
 }
 
 @media screen and (max-width: 480px) {
   .flex-container {
     padding-bottom: 64px;
+    gap: 64px;
   }
 }
 
