@@ -9,19 +9,19 @@
   text-align: center;
 }
 
-@media screen and (max-width: 675px) {
+@media screen and (max-width: 695px) {
   .lead__title {
     font-size: 80px;
   }
 }
 
-@media screen and (max-width: 565px) {
+@media screen and (max-width: 580px) {
   .lead__title {
     font-size: 70px;
   }
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 510px) {
   .lead__title {
     font-size: 60px;
   }
