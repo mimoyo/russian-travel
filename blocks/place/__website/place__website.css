@@ -4,3 +4,11 @@
   justify-content: end;
   gap: 12px;
 }
+
+
+@media screen and (max-width: 480px) {
+  .place__website {
+    min-width: 288px;
+    margin: 0 auto;
+  }
+}

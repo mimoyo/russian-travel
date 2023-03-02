@@ -1,6 +1,14 @@
 .place__texts {
   max-width: 484px;
+  margin: 0 auto;
   display: flex;
   flex-direction: column;
   gap: 26px;
+}
+
+@media screen and (max-width: 480px) {
+  .place__texts {
+    max-width: 288px;
+    margin: 0 auto;
+  }
 }

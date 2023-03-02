@@ -9,7 +9,7 @@
 @import url('../blocks/flex-container/flex-container.css');
 @import url('../blocks/lead/__title/lead__title.css');
 @import url('../blocks/lead/__subtitle/lead__subtitle.css');
-@import url('../blocks/image-container/image-container.css');
+@import url('../blocks/lead/__image-container/lead__image-container.css');
 @import url('../blocks/lead/__image/lead__image.css');
 @import url('../blocks/lead/__caption/lead__caption.css');
 @import url('../blocks/intro/intro.css');
@@ -33,7 +33,6 @@
 @import url('../blocks/cover/cover.css');
 @import url('../blocks/cover/__title/cover__title.css');
 @import url('../blocks/cover/__subtitle/cover__subtitle.css');
-@import url('../blocks/cover/__background/cover__background.css');
 @import url('../blocks/footer/footer.css');
 @import url('../blocks/footer/__links/footer__links.css');
 @import url('../blocks/footer/__link/footer__link.css');

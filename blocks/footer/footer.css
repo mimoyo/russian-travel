@@ -30,7 +30,13 @@
 @media screen and (max-width: 480px) {
   .footer {
     max-width: 186px;
-    margin: 0;
     padding-top: 64px;
+    margin: 0;
+  }
+}
+
+@media screen and (max-width: 340px) {
+  .footer {
+    margin-left: 16px;
   }
 }
